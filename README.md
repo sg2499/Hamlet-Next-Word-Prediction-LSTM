@@ -1,5 +1,9 @@
 # 🧠 Next Word Prediction using LSTM on Hamlet Dataset
 
+<p align="center">
+  <img src="assets/banner.png" alt="Banner" width="800"/>
+</p>
+
 ![GitHub repo size](https://img.shields.io/github/repo-size/sg2499/Hamlet-Next-Word-Prediction-LSTM)
 ![GitHub stars](https://img.shields.io/github/stars/sg2499/Hamlet-Next-Word-Prediction-LSTM?style=social)
 ![Last Commit](https://img.shields.io/github/last-commit/sg2499/Hamlet-Next-Word-Prediction-LSTM)
@@ -20,6 +24,9 @@ Hamlet-Next-Word-Prediction-LSTM/
 ├── requirements.txt           # Project dependencies
 ├── README.md                  # Project documentation
 ├── Next Word Prediction using LSTM RNN.ipynb  # Training notebook
+├── assets/
+│   ├── banner.png
+│   └── app_screenshot.png
 ```
 
 ---
@@ -42,15 +49,13 @@ Hamlet-Next-Word-Prediction-LSTM/
 
 ---
 
-## 🌐 Web App – Streamlit Interface
+## 🖼️ App Interface
 
-The deployed Streamlit web app allows users to:
-- Type a sequence of words from Hamlet or any text
-- Predict the **next word** using the trained LSTM model
-- Enjoy a simple and clean UI for literary language modeling
+<p align="center">
+  <img src="assets/app_screenshot.png" alt="App Screenshot" width="800"/>
+</p>
 
-### 🖥️ Screenshot
-> *(Add app UI screenshot here if available)*
+Experience the elegance of Shakespearean next-word prediction with our clean Streamlit interface.
 
 ---
 
